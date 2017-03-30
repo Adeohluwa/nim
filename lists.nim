@@ -14,4 +14,4 @@ for eachCity in cities:
 #
 import future
 
-lc[each, (each <- cities, len(cities) <=6), string]
+lc[each | (each <- cities, len(cities) <=6), string]
