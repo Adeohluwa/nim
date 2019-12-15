@@ -16,3 +16,7 @@ proc add(x,y: int | float): int =
 
 
 echo add(2,3)
+
+# a void function
+proc add(x,y: int) =
+  x+y
