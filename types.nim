@@ -21,5 +21,7 @@ echo ade.shout()
 
 # enum type
 type 
-  Color = Enum
-    Red, Blue, Green
+  Color = enum
+    Red,
+    Blue,
+    Green
