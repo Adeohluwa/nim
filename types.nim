@@ -16,3 +16,10 @@ let ade = Human(
 
 # uniform call syntax
 echo ade.shout()
+
+
+
+# enum type
+type 
+  Color = Enum
+    Red, Blue, Green
